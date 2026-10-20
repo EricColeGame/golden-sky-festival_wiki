@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Golden Sky Festival Wiki - 2027 Dates, Lineup & Tickets", template: "%s" },
+    title: { default: "Golden Sky Festival Wiki", template: "%s" },
     description: "Find GoldenSky Festival 2027 dates, country music lineup, tickets, daily schedules, venue maps, travel tips, and official event updates for Sacramento.",
     keywords: ["Golden Sky Festival", "GoldenSky 2027", "country music festival", "lineup", "tickets", "schedule", "Sacramento"],
     manifest: "/manifest.json",
@@ -35,8 +35,21 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
       ],
       apple: "/apple-touch-icon.png",
     },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: {
+      type: "website",
+      locale,
+      url: siteUrl,
+      siteName: siteConfig.name,
+      title: "Golden Sky Festival Wiki",
+      description: "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, schedules, venue maps, and visitor planning for Sacramento.",
+      images: [{ url: image, width: 1200, height: 628, alt: "Golden Sky Festival 2027" }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: "Golden Sky Festival Wiki",
+      description: "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, schedules, venue maps, and visitor planning for Sacramento.",
+      images: [image],
+    },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -53,6 +66,8 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     url: siteUrl,
     logo: `${siteUrl}/android-chrome-512x512.png`,
     image: `${siteUrl}/images/hero.webp`,
+    email: siteConfig.supportEmail,
+    sameAs: [siteConfig.social?.facebook, siteConfig.social?.instagram, siteConfig.social?.youtube, siteConfig.social?.twitter].filter(Boolean),
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;

@@ -2,9 +2,9 @@
   "site": {
     "name": "Golden Sky Festival Wiki",
     "shortName": "Golden Sky Festival",
-    "tagline": "2027 Lineup, Tickets & Festival Guide",
-    "description": "Explore GoldenSky Festival 2027 dates, country music lineup, daily schedules, tickets, venue maps, and visitor planning tips for Sacramento, California.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "tagline": "2027 Lineup, Passes & Festival Guide",
+    "description": "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, daily schedules, venue maps, and visitor planning for Sacramento, California.",
+    "legalNotice": "Independent fan guide. Not affiliated with GoldenSky Festival or its organizers."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Find GoldenSky Festival 2027 dates, country music lineup, tickets, daily schedules, venue maps, travel tips, and official event updates for Sacramento."
     },
     "hero": {
-      "eyebrow": "GoldenSky 2027 Guide",
-      "title": "Golden Sky Festival",
-      "description": "Plan your GoldenSky Festival weekend with the latest lineup details, ticket guidance, daily schedules, venue maps, and practical travel tips for Sacramento.",
+      "eyebrow": "GoldenSky 2027 Festival Guide",
+      "title": "Golden Sky Festival Wiki",
+      "description": "Explore GoldenSky Festival 2027 dates, country music lineup, daily performance schedules, venue maps, pass information, and visitor planning tips for Sacramento, California.",
       "stats": [
         "October 9–10, 2027",
         "2-Day Festival",
         "Discovery Park",
         "Sacramento, CA"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Festival Guide",
+      "secondaryCta": "2027 Lineup",
+      "tertiaryCta": "Get Passes",
+      "videoLabel": "Official 2027 lineup announcement"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master Golden Sky Festival?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Plan Your GoldenSky 2027 Weekend",
+      "description": "Use our independent festival guide to compare passes, plan your daily schedule, and make the most of two days at Discovery Park in Sacramento.",
+      "primary": "Browse Festival Guides",
+      "secondary": "Get Festival Passes"
     }
   },
   "bosses": {
@@ -385,15 +385,18 @@
     "guides": "Guides",
     "legal": "Legal",
     "copyright": "2026 Golden Sky Festival Wiki. Not affiliated with GoldenSky Festival or its organizers.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play Golden Sky Festival",
-    "officialDiscord": "Official Discord",
+    "description": "Independent guide to GoldenSky Festival 2027 in Sacramento — lineup, passes, schedules, and visitor planning.",
+    "playGame": "Official Festival Site",
+    "officialFacebook": "Official Facebook",
+    "officialDiscord": "Official Facebook",
+    "officialInstagram": "Official Instagram",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "officialApp": "Official Festival App",
+    "vvBuilder": "Official Festival App",
+    "beginnerGuide": "Festival Guide",
+    "raceGuides": "Lineup & Artists",
+    "bossGuides": "Daily Schedule",
+    "buildGuide": "Venue & Travel",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
