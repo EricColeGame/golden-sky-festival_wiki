@@ -39,288 +39,364 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Plan your first Golden Sky Festival weekend with a clear arrival strategy, pass checklist, packing list, and a simple route through Discovery Park."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "2027 Lineup",
+          "description": "Track the Golden Sky Festival 2027 lineup announcement and learn how headliner, support, and undercard slots shape the two-day bill."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Tickets & Passes",
+          "description": "Compare two-day, single-day, VIP, and hotel bundle options, then prepare for RFID wristband delivery and official resale rules."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Golden Sky Festival."
+          "title": "Schedule & Set Times",
+          "description": "Use the official schedule release to map stage assignments, avoid conflicts, and build a two-day plan around your must-see acts."
         }
       ]
     },
     "popular": {
-      "eyebrow": "Popular Pages",
-      "title": "Trending Now",
+      "eyebrow": "Festival Favorites",
+      "title": "Plan the Golden Sky Festival Weekend",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "2027 Lineup",
+        "Tickets & Passes",
+        "Set Times",
+        "Parking & Shuttles"
       ],
       "cards": [
         {
-          "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "badge": "Featured",
+          "title": "Golden Sky Festival 2027 Lineup",
+          "description": "Track the announcement timeline and understand how the headliner, support, and undercard slots are built.",
+          "href": "/lineup/golden-sky-festival-2027-lineup"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Guide",
+          "title": "Golden Sky Festival Tickets and Passes",
+          "description": "Compare pass types, tiered pricing, RFID wristbands, layaway rules, will call, and verified resale.",
+          "href": "/tickets/golden-sky-festival-2027-tickets"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Planning",
+          "title": "Golden Sky Festival Schedule and Set Times",
+          "description": "Map stage assignments, gate windows, and daily performance blocks for both festival days.",
+          "href": "/guide/golden-sky-festival-set-times"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Travel",
+          "title": "Golden Sky Festival Location and Parking",
+          "description": "Choose an entrance, compare parking and shuttles, and plan your route to Discovery Park.",
+          "href": "/location/golden-sky-festival-parking"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Food",
+          "title": "Golden Sky Festival Food and Drinks",
+          "description": "Review vendor categories, water rules, the 21+ Beer Festival, and line strategy for each day.",
+          "href": "/guide/golden-sky-festival-food"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "First Timer",
+          "title": "Golden Sky Festival Beginner Guide",
+          "description": "Follow the first-timer sequence for passes, lodging, packing, arrivals, and a realistic weekend plan.",
+          "href": "/guide/golden-sky-festival-information"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is Golden Sky Festival?",
+      "title": "What Is Golden Sky Festival?",
       "paragraphs": [
-        "Golden Sky Festival is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Golden Sky Festival, also styled GoldenSky Festival, is a two-day outdoor country music festival at Discovery Park in Sacramento, California. The 2027 edition runs October 9–10 and brings country, Americana, roots, and crossover acts to a multi-stage riverside site. The event is produced by the team behind Sacramento's Aftershock Festival.",
+        "This independent guide covers the full weekend: lineup tracking, tiered passes and RFID wristbands, daily set times, Discovery Park entrances, Cal Expo camping and Park & Ride shuttles, food and drink rules, and practical first-timer planning. Use it to move from the first lineup announcement to a complete festival itinerary."
       ],
       "stats": [
         {
-          "label": "Developer",
-          "value": "Midnight Continent"
+          "label": "Event Dates",
+          "value": "Oct 9–10, 2027"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Venue",
+          "value": "Discovery Park"
         },
         {
-          "label": "Genre",
-          "value": "Fighting RPG"
+          "label": "City",
+          "value": "Sacramento, CA"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Format",
+          "value": "2-Day Festival"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Official App",
+          "value": "5K+ Downloads"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "App Rating",
+          "value": "3.4/5"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Explore Festival Guides"
     },
     "explore": {
       "title": "Explore the Golden Sky Festival Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Plan the full Golden Sky Festival weekend with guides to the 2027 lineup, passes, set times, Discovery Park travel, camping, food, rules, and first-timer essentials.",
       "modules": [
         {
           "order": 1,
-          "name": "Golden Sky Festival Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/golden-sky-festival-codes",
-          "displayType": "code-box",
+          "name": "Golden Sky Festival 2027 Lineup",
+          "description": "Follow the Golden Sky Festival 2027 lineup announcement and understand how headliners, direct support, mid-card acts, and regional openers shape the two-day bill at Discovery Park.",
+          "href": "/lineup/golden-sky-festival-2027-lineup",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "S",
+              "detail": "Arena-level headliners close the main stage and drive the biggest crowds of the weekend."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "A",
+              "detail": "Direct support acts bring current country hits and strong live sets before the headliner."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "B",
+              "detail": "Mid-card artists mix rising Nashville names with Americana and roots crossover acts."
+            },
+            {
+              "label": "C",
+              "detail": "Regional openers and undercard sets fill the early afternoon with easy discovery."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/golden-sky-festival-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Golden Sky Festival Tickets and Passes",
+          "description": "Compare single-day, two-day, VIP, and hotel bundle options, then follow the official path for RFID wristband delivery, layaway rules, will call, and verified resale.",
+          "href": "/tickets/golden-sky-festival-2027-tickets",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "2-Day",
+              "detail": "General admission for October 9–10, 2027; one RFID wristband covers both days."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Single",
+              "detail": "One-day general admission for attendees who can commit to only one festival date."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "VIP",
+              "detail": "VIP and premium passes add dedicated viewing areas, upgraded amenities, and separate entry."
+            },
+            {
+              "label": "Bundle",
+              "detail": "Jampack packages pair admission with hotel stays for out-of-town festival weekends."
+            },
+            {
+              "label": "Resale",
+              "detail": "Use the official resale partner; passes sold above face value are voided without a refund."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/golden-sky-festival-tier-list",
-          "displayType": "tier-grid",
+          "name": "Golden Sky Festival Schedule and Set Times",
+          "description": "Plan both festival days around the official set-time release, stage assignments, gate windows, and the multi-stage layout at Discovery Park.",
+          "href": "/guide/golden-sky-festival-set-times",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Saturday",
+              "detail": "October 9, 2027: opening sets, afternoon main-stage acts, and the night headliner."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Sunday",
+              "detail": "October 10, 2027: the second full day of music, food, and closing performances."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Stages",
+              "detail": "Map stage-to-stage walking times before the schedule goes live to avoid conflicts."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "App",
+              "detail": "Use the official festival app for schedule updates, stage changes, and push alerts."
+            },
+            {
+              "label": "Gates",
+              "detail": "Arrive near opening to clear security and learn the site layout before the first set."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/golden-sky-festival-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Golden Sky Festival Location and Directions",
+          "description": "Find Discovery Park, choose the Garden Highway or Jibboom Street entrance, and compare rideshare, light rail, biking, shuttle, and walking routes.",
+          "href": "/location/golden-sky-festival-location",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Set your route to Discovery Park, north of downtown Sacramento beside the American River."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Choose the Garden Highway entrance from the north or Jibboom Street from downtown."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Book a rideshare drop-off, light rail trip, bike route, or hotel shuttle before festival day."
+            },
+            {
+              "label": "4",
+              "detail": "Build in 45 minutes for security, bag checks, and the walk from drop-off to the stages."
+            },
+            {
+              "label": "5",
+              "detail": "Screenshot the festival map and agree on a meeting point before cell service slows down."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/golden-sky-festival-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Golden Sky Festival Camping and Hotels",
+          "description": "Compare Cal Expo campsites, RV sites, Park & Ride shuttles, and Sacramento hotel areas for a weekend base near Discovery Park.",
+          "href": "/location/golden-sky-festival-parking",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Camping",
+              "detail": "Cal Expo campsites open Friday, October 8, 2027, with three nights, showers, security, and festival re-entry."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "RV Sites",
+              "detail": "General RV sites accommodate up to six campers; powered sites include 50/30 amp service."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Hotels",
+              "detail": "Downtown, Midtown, Old Sacramento, and Natomas offer different distances and price points."
+            },
+            {
+              "label": "Shuttle",
+              "detail": "Park & Ride passes include free parking at Cal Expo plus round-trip service to Discovery Park."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/golden-sky-festival-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Golden Sky Festival Food and Experiences",
+          "description": "Plan meals, hydration, the 21+ GoldenSky Beer Festival, and between-set activities across the Discovery Park grounds.",
+          "href": "/guide/golden-sky-festival-food",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Food",
+              "detail": "Vendor rows cover BBQ, tacos, fried comfort food, plant-based options, sweets, and iced drinks."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Water",
+              "detail": "Bring one sealed 20 oz bottle or an empty plastic bottle and refill early and often."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Beer Fest",
+              "detail": "The GoldenSky Beer Festival is 21+ with a separate entrance and valid photo ID required."
+            },
+            {
+              "label": "Lockers",
+              "detail": "Rent an 8 by 12 by 18 inch locker in the GA or VIP area to stash layers and purchases."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Golden Sky Festival Rules and What to Bring",
+          "description": "Review bag screening, prohibited items, wristband rules, re-entry limits, accessibility support, and a practical packing checklist for both festival days.",
+          "href": "/guide/golden-sky-festival-rules",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Bags",
+              "detail": "Bring a clear tote or small clutch within the published size limit; large bags are restricted."
+            },
+            {
+              "label": "Banned",
+              "detail": "Leave glass, outside alcohol, drones, selfie sticks, coolers, and weapons at home."
+            },
+            {
+              "label": "Re-entry",
+              "detail": "Standard passes cannot leave and re-enter; camping, SVIP, and hotel packages have exceptions."
+            },
+            {
+              "label": "Access",
+              "detail": "ADA viewing, service animals, medical supplies, and dietary needs are handled through advance arrangements."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Golden Sky Festival Beginner Guide",
+          "description": "Follow a first-timer sequence for choosing passes, booking travel, packing for the weather, navigating the grounds, and building a realistic two-day plan.",
+          "href": "/guide/golden-sky-festival-information",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Lock in October 9–10, 2027 and choose a two-day or single-day pass before prices rise."
+            },
+            {
+              "label": "2",
+              "detail": "Book a refundable hotel or Cal Expo campsite and reserve parking or shuttle passes early."
+            },
+            {
+              "label": "3",
+              "detail": "Pack broken-in shoes, sun protection, a light evening layer, ID, and a portable charger."
+            },
+            {
+              "label": "4",
+              "detail": "Arrive near gate opening, clear security, and walk the site before the first must-see set."
+            },
+            {
+              "label": "5",
+              "detail": "Pick two or three anchor acts per day and leave room for food, shade, and stage changes."
+            },
+            {
+              "label": "6",
+              "detail": "Screenshot the schedule and set a physical meeting point before cell service slows down."
             }
           ]
         }
       ]
     },
     "faq": {
-      "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about Golden Sky Festival.",
+      "title": "Golden Sky Festival FAQ",
+      "description": "Answers to the most common questions about the Golden Sky Festival weekend in Sacramento.",
       "items": [
         {
           "question": "What is Golden Sky Festival?",
-          "answer": "Golden Sky Festival is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Golden Sky Festival is a two-day outdoor country music festival at Discovery Park in Sacramento, California. The 2027 edition runs October 9–10 and features country, Americana, roots, and crossover acts across multiple stages."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When is Golden Sky Festival 2027?",
+          "answer": "Golden Sky Festival 2027 takes place Saturday, October 9 and Sunday, October 10, 2027."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Where is Golden Sky Festival held?",
+          "answer": "Golden Sky Festival is held at Discovery Park in Sacramento, California, where the American River meets the Sacramento River. The site has north and south entrances at Garden Highway and Jibboom Street."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What do Golden Sky Festival tickets include?",
+          "answer": "Golden Sky Festival passes provide festival admission and arrive as RFID wristbands. Single-day, two-day, VIP, and hotel bundle options are sold separately from camping and parking passes."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can I leave and re-enter Golden Sky Festival?",
+          "answer": "Standard Golden Sky Festival passes do not allow re-entry. Camping passes, Country Club SVIP passes, and Admission + Hotel packages booked through Jampack include re-entry during event hours."
+        },
+        {
+          "question": "What can I bring to Golden Sky Festival?",
+          "answer": "Bring a clear bag or small clutch, one sealed 20 oz water bottle or an empty plastic bottle, lotion sunscreen, a blanket, and a light layer. Glass, outside alcohol, coolers, drones, selfie sticks, and large bags are prohibited."
+        },
+        {
+          "question": "Where can I stay near Golden Sky Festival?",
+          "answer": "Golden Sky Festival camping is available at Cal Expo with car and tent or RV sites. Downtown, Midtown, Old Sacramento, and Natomas offer hotel options within a short drive or rideshare of Discovery Park."
         }
       ]
     },
