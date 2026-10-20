@@ -6,7 +6,17 @@
     "description": "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, daily schedules, venue maps, and visitor planning for Sacramento, California.",
     "legalNotice": "Independent fan guide. Not affiliated with GoldenSky Festival or its organizers."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "lineup": "Lineup",
+    "tickets": "Tickets",
+    "guide": "Guide",
+    "location": "Location",
+    "reviews": "Reviews",
+    "updates": "Updates",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Golden Sky Festival Wiki - 2027 Dates, Lineup & Tickets",
@@ -29,7 +39,7 @@
     },
     "updates": {
       "title": "Latest Updates",
-      "browse": "Browse All Guides",
+      "browse": "Browse All Updates",
       "viewAll": "View All"
     },
     "start": {
@@ -407,12 +417,36 @@
       "secondary": "Get Festival Passes"
     }
   },
-  "bosses": {},
+  "lineup": {
+    "overviewTitle": "Golden Sky Festival Lineup & Artist Guide",
+    "overviewDescription": "Track the confirmed Golden Sky Festival 2027 lineup, day-by-day artist lists, past bills, and announcement news for the October 9–10 weekend at Discovery Park."
+  },
+  "tickets": {
+    "overviewTitle": "Golden Sky Festival Tickets & Passes",
+    "overviewDescription": "Compare Golden Sky Festival 2027 ticket options, will-call rules, Front Gate Tickets details, resale checks, and budget tips before passes go on sale."
+  },
+  "guide": {
+    "overviewTitle": "Golden Sky Festival Guide & Schedule",
+    "overviewDescription": "Plan the Golden Sky Festival weekend with 2027 dates, daily schedules, set times, festival rules, food options, capacity details, and first-timer advice."
+  },
+  "location": {
+    "overviewTitle": "Golden Sky Festival Location & Travel",
+    "overviewDescription": "Find Discovery Park in Sacramento, compare parking and transit options, study the festival map, and plan an easy arrival for Golden Sky Festival."
+  },
+  "reviews": {
+    "overviewTitle": "Golden Sky Festival Reviews & Recaps",
+    "overviewDescription": "Read Golden Sky Festival reviews, fan discussions, photos, and recaps of the 2022 debut and 2023 lineup announcement."
+  },
+  "updates": {
+    "overviewTitle": "Golden Sky Festival News & Updates",
+    "overviewDescription": "Follow confirmed Golden Sky Festival 2027 dates, return announcements, past cancellation context, and lineup news as the Sacramento festival prepares for Discovery Park."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
-    "activeCodes": "Active Codes",
+    "festivalUpdates": "Festival Updates",
+    "festivalUpdateText": "Golden Sky Festival returns to Discovery Park on October 9–10, 2027.",
     "updated": "Updated",
-    "viewAllCodes": "View all codes",
+    "viewAllUpdates": "View all updates",
     "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
@@ -441,8 +475,8 @@
     "officialApp": "Official Festival App",
     "vvBuilder": "Official Festival App",
     "beginnerGuide": "Festival Guide",
-    "raceGuides": "Lineup & Artists",
-    "bossGuides": "Daily Schedule",
+    "raceGuides": "2027 Lineup",
+    "bossGuides": "Tickets & Passes",
     "buildGuide": "Venue & Travel",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"

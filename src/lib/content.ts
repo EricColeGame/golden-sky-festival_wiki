@@ -225,11 +225,11 @@ export async function getContent(contentType: string, slugSegments: string[], la
  * 导航分组结构（用于动态 Wiki Navigation）
  */
 export interface NavGroup {
-  /** 分组标题，来自目录名转人类可读格式，如 "bosses" → "Bosses" */
+  /** 分组标题，来自目录名转人类可读格式，如 "lineup" → "2027 Lineup" */
   title: string;
   /** 该分组下的文章数量 */
   count: number;
-  /** 分组 slug（即目录名，如 "bosses"） */
+  /** 分组 slug（即目录名，如 "lineup"） */
   slug: string;
   /** 文章链接列表 */
   links: Array<{ label: string; href: string; badge?: string }>;
@@ -237,39 +237,58 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  lineup: "2027 Lineup",
+  tickets: "Tickets & Passes",
+  guide: "Festival Guide",
+  location: "Location & Travel",
+  reviews: "Reviews & Recaps",
+  updates: "News & Updates",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+const GROUP_TITLES_ES: Record<string, string> = {
+  lineup: "Cartel 2027",
+  tickets: "Entradas y pases",
+  guide: "Guía del festival",
+  location: "Ubicación y viaje",
+  reviews: "Reseñas y resúmenes",
+  updates: "Noticias y novedades",
+};
+
+const GROUP_TITLES_FR: Record<string, string> = {
+  lineup: "Programmation 2027",
+  tickets: "Billets et passes",
+  guide: "Guide du festival",
+  location: "Lieu et transport",
+  reviews: "Avis et récapitulatifs",
+  updates: "Actualités et mises à jour",
+};
+
+const GROUP_TITLES_DE: Record<string, string> = {
+  lineup: "Line-up 2027",
+  tickets: "Tickets und Pässe",
+  guide: "Festival-Guide",
+  location: "Ort und Anreise",
+  reviews: "Bewertungen und Rückblicke",
+  updates: "News und Updates",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  fr: GROUP_TITLES_FR,
+  de: GROUP_TITLES_DE,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Resumen",
+  fr: "Aperçu",
+  de: "Übersicht",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "lineup", "tickets", "guide", "location", "reviews", "updates",
 ];
 
 /**
