@@ -1,1 +1,487 @@
-{}
+{
+  "site": {
+    "name": "Golden Sky Festival Wiki",
+    "shortName": "Golden Sky Festival",
+    "tagline": "Cartel, pases y guía del festival 2027",
+    "description": "Guía independiente del GoldenSky Festival 2027 con fechas, cartel, pases, horarios diarios, planos del recinto y consejos para visitar Sacramento, California.",
+    "legalNotice": "Guía independiente creada por fans. Sin afiliación con GoldenSky Festival ni con sus organizadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "lineup": "Cartel",
+    "tickets": "Entradas",
+    "guide": "Guía",
+    "location": "Ubicación",
+    "reviews": "Reseñas",
+    "updates": "Novedades",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema"
+  },
+  "home": {
+    "meta": {
+      "title": "Golden Sky Festival Wiki - Fechas, cartel y entradas 2027",
+      "description": "Consulta las fechas del GoldenSky Festival 2027, el cartel de música country, las entradas, los horarios diarios, los planos del recinto, los consejos de viaje y las novedades oficiales para Sacramento."
+    },
+    "hero": {
+      "eyebrow": "Guía del GoldenSky Festival 2027",
+      "title": "Golden Sky Festival Wiki",
+      "description": "Descubre las fechas del GoldenSky Festival 2027, el cartel de música country, los horarios diarios, los planos del recinto, la información de pases y consejos prácticos para visitar Sacramento, California.",
+      "stats": [
+        "9–10 de octubre de 2027",
+        "Festival de 2 días",
+        "Discovery Park",
+        "Sacramento, CA"
+      ],
+      "primaryCta": "Guía del festival",
+      "secondaryCta": "Cartel 2027",
+      "tertiaryCta": "Comprar pases",
+      "videoLabel": "Anuncio oficial del cartel 2027"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las novedades",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu fin de semana en Golden Sky Festival",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Planifica tu primer fin de semana Golden Sky Festival con una estrategia de llegada clara, una lista de verificación de pases, una lista de equipaje y una ruta sencilla a través de Discovery Park."
+        },
+        {
+          "number": "2",
+          "title": "Cartel 2027",
+          "description": "Siga el anuncio de la alineación de Golden Sky Festival 2027 y descubra cómo los espacios de cabeza de cartel, soporte y cartelera dan forma a la cartelera de dos días."
+        },
+        {
+          "number": "3",
+          "title": "Entradas y pases",
+          "description": "Compare las opciones de paquetes de dos días, de un solo día, VIP y de hotel, luego prepárese para la entrega de pulseras RFID y las reglas oficiales de reventa."
+        },
+        {
+          "number": "4",
+          "title": "Horarios y actuaciones",
+          "description": "Utilice la publicación oficial del calendario para mapear las asignaciones escénicas, evitar conflictos y crear un plan de dos días en torno a sus actos imperdibles."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Favoritos del festival",
+      "title": "Planifica tu fin de semana en Golden Sky Festival",
+      "quickLinks": [
+        "Cartel 2027",
+        "Entradas y pases",
+        "Horarios",
+        "Aparcamiento y lanzaderas"
+      ],
+      "cards": [
+        {
+          "badge": "Destacado",
+          "title": "Cartel 2027 de Golden Sky Festival",
+          "description": "Realice un seguimiento del cronograma de anuncios y comprenda cómo se construyen los espacios para cabezas de cartel, soporte y tarjetas secundarias.",
+          "href": "/lineup/golden-sky-festival-2027-lineup"
+        },
+        {
+          "badge": "Guía",
+          "title": "Entradas y pases de Golden Sky Festival",
+          "description": "Compare tipos de pases, precios escalonados, RFID pulseras, reglas de apartado, llamadas telefónicas y reventa verificada.",
+          "href": "/tickets/golden-sky-festival-2027-tickets"
+        },
+        {
+          "badge": "Planificación",
+          "title": "Horarios y actuaciones de Golden Sky Festival",
+          "description": "Mapee las asignaciones de escenario, ventanas de entrada y bloques de presentaciones diarias para ambos días del festival.",
+          "href": "/guide/golden-sky-festival-set-times"
+        },
+        {
+          "badge": "Viaje",
+          "title": "Ubicación y aparcamiento de Golden Sky Festival",
+          "description": "Elija una entrada, compare estacionamiento y transporte y planifique su ruta a Discovery Park.",
+          "href": "/location/golden-sky-festival-parking"
+        },
+        {
+          "badge": "Comida",
+          "title": "Comida y bebida en Golden Sky Festival",
+          "description": "Revise las categorías de proveedores, las reglas del agua, el Festival de la Cerveza 21+ y la estrategia de línea para cada día.",
+          "href": "/guide/golden-sky-festival-food"
+        },
+        {
+          "badge": "Primera vez",
+          "title": "Guía para principiantes de Golden Sky Festival",
+          "description": "Siga la secuencia para principiantes para obtener pases, alojamiento, empacar, llegadas y un plan realista para el fin de semana.",
+          "href": "/guide/golden-sky-festival-information"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es el Golden Sky Festival?",
+      "paragraphs": [
+        "Golden Sky Festival, también llamado GoldenSky Festival, es un festival de música country al aire libre de dos días de duración en Discovery Park en Sacramento, California. La edición de 2027 se llevará a cabo del 9 al 10 de octubre y traerá actos country, Americana, raíces y crossover a un sitio de varios escenarios junto al río. El evento es producido por el equipo detrás del Aftershock Festival de Sacramento.",
+        "Esta guía independiente cubre todo el fin de semana: seguimiento de la alineación, pases escalonados y RFID pulseras, horarios establecidos diariamente, Discovery Park entradas, Cal Expo campamentos y Park & Ride traslados, reglas de alimentos y bebidas, y planificación práctica para principiantes. Úselo para pasar del primer anuncio del cartel a un itinerario completo del festival."
+      ],
+      "stats": [
+        {
+          "label": "Fechas del evento",
+          "value": "9 y 10 de octubre de 2027"
+        },
+        {
+          "label": "Recinto",
+          "value": "Discovery Park"
+        },
+        {
+          "label": "Ciudad",
+          "value": "Sacramento, CA"
+        },
+        {
+          "label": "Formato",
+          "value": "Festival de 2 días"
+        },
+        {
+          "label": "App oficial",
+          "value": "Más de 5.000 descargas"
+        },
+        {
+          "label": "Valoración de la app",
+          "value": "3.4/5"
+        }
+      ],
+      "cta": "Explorar guías del festival"
+    },
+    "explore": {
+      "title": "Explora la guía del Golden Sky Festival",
+      "description": "Planifique el fin de semana Golden Sky Festival completo con guías de la programación de 2027, pases, horarios establecidos, viajes Discovery Park, campamentos, comida, reglas y elementos esenciales para principiantes.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Cartel 2027 de Golden Sky Festival",
+          "description": "Siga el anuncio del cartel de Golden Sky Festival 2027 y comprenda cómo los artistas principales, el apoyo directo, los actos de mitad de cartelera y los abridores regionales dan forma al cartel de dos días en Discovery Park.",
+          "href": "/lineup/golden-sky-festival-2027-lineup",
+          "displayType": "cuadrícula de niveles",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Los artistas principales a nivel de arena cierran el escenario principal y atraen a las mayores multitudes del fin de semana."
+            },
+            {
+              "label": "A",
+              "detail": "Los actos de apoyo directo presentan éxitos country actuales y potentes presentaciones en vivo antes del cabeza de cartel."
+            },
+            {
+              "label": "B",
+              "detail": "Los artistas de mitad de cartel mezclan nombres emergentes Nashville con Americana y actos cruzados de raíces."
+            },
+            {
+              "label": "C",
+              "detail": "Los primeros partidos regionales y las carteleras secundarias llenan las primeras horas de la tarde con un fácil descubrimiento."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Entradas y pases de Golden Sky Festival",
+          "description": "Compare las opciones de paquetes de un solo día, dos días, VIP y de hotel, luego siga la ruta oficial para la entrega de pulseras RFID, reglas de apartado, llamadas telefónicas y reventa verificada.",
+          "href": "/tickets/golden-sky-festival-2027-tickets",
+          "displayType": "tarjetas de código",
+          "highlights": [
+            {
+              "label": "2 días",
+              "detail": "Entrada general del 9 al 10 de octubre de 2027; una pulsera RFID cubre ambos días."
+            },
+            {
+              "label": "1 día",
+              "detail": "Entrada general de un día para asistentes que puedan comprometerse a una sola fecha del festival."
+            },
+            {
+              "label": "VIP",
+              "detail": "Los pases VIP y premium agregan áreas de visualización dedicadas, comodidades mejoradas y entrada independiente."
+            },
+            {
+              "label": "Pack",
+              "detail": "Los paquetes Jampack combinan la entrada con estadías en hoteles para los fines de semana de festivales fuera de la ciudad."
+            },
+            {
+              "label": "Reventa",
+              "detail": "Utilice el socio de reventa oficial; los pases vendidos por encima del valor nominal se anulan sin reembolso."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Horarios y actuaciones de Golden Sky Festival",
+          "description": "Planifique ambos días del festival en torno a la hora oficial de lanzamiento, las asignaciones de escenario, las ventanas de entrada y el diseño de múltiples escenarios en Discovery Park.",
+          "href": "/guide/golden-sky-festival-set-times",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Sábado",
+              "detail": "9 de octubre de 2027: sets de apertura, actos en el escenario principal de la tarde y cabeza de cartel de la noche."
+            },
+            {
+              "label": "Domingo",
+              "detail": "10 de octubre de 2027: segundo día completo de música, comida y actuaciones de clausura."
+            },
+            {
+              "label": "Escenarios",
+              "detail": "Mapee los tiempos de caminata de etapa a etapa antes de que el cronograma entre en funcionamiento para evitar conflictos."
+            },
+            {
+              "label": "App",
+              "detail": "Utilice la aplicación oficial del festival para obtener actualizaciones de horarios, cambios de escenario y alertas automáticas."
+            },
+            {
+              "label": "Puertas",
+              "detail": "Llegue cerca de la apertura para pasar la seguridad y conocer el diseño del sitio antes del primer set."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Ubicación y cómo llegar a Golden Sky Festival",
+          "description": "Busque Discovery Park, elija la entrada Garden Highway o Jibboom Street y compare rutas de viajes compartidos, trenes ligeros, bicicletas, transporte público y caminatas.",
+          "href": "/location/golden-sky-festival-location",
+          "displayType": "paso a paso",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Establece tu ruta a Discovery Park, al norte del centro de la ciudad Sacramento al lado de American River."
+            },
+            {
+              "label": "2",
+              "detail": "Elige la entrada Garden Highway desde el norte o Jibboom Street desde el centro."
+            },
+            {
+              "label": "3",
+              "detail": "Reserve un viaje compartido, un viaje en tren ligero, una ruta en bicicleta o un servicio de traslado al hotel antes del día del festival."
+            },
+            {
+              "label": "4",
+              "detail": "Construya en 45 minutos para la seguridad, el control de bolsos y el recorrido desde el lugar de entrega hasta los escenarios."
+            },
+            {
+              "label": "5",
+              "detail": "Haz una captura de pantalla del mapa del festival y acuerda un punto de encuentro antes de que el servicio móvil se ralentice."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Camping y hoteles para Golden Sky Festival",
+          "description": "Compare Cal Expo campings, sitios para vehículos recreativos, Park & Ride servicios de transporte y Sacramento áreas de hoteles para una base de fin de semana cerca de Discovery Park.",
+          "href": "/location/golden-sky-festival-parking",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Camping",
+              "detail": "Los campamentos Cal Expo abren el viernes 8 de octubre de 2027, con tres noches, duchas, seguridad y reingreso al festival."
+            },
+            {
+              "label": "Parcelas para autocaravanas",
+              "detail": "Los sitios generales para vehículos recreativos tienen capacidad para hasta seis campistas; Los sitios con energía incluyen servicio de 50/30 amperios."
+            },
+            {
+              "label": "Hoteles",
+              "detail": "Downtown, Midtown, Old Sacramento y Natomas ofrecen diferentes distancias y precios."
+            },
+            {
+              "label": "Shuttle",
+              "detail": "Los pases Park & Ride incluyen estacionamiento gratuito en Cal Expo más servicio de ida y vuelta a Discovery Park."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Comida y experiencias en Golden Sky Festival",
+          "description": "Planifique comidas, hidratación, el Festival de la Cerveza 21+ GoldenSky y actividades entre sets en los terrenos Discovery Park.",
+          "href": "/guide/golden-sky-festival-food",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Comida",
+              "detail": "Las filas de vendedores cubren barbacoa, tacos, comida reconfortante frita, opciones a base de plantas, dulces y bebidas heladas."
+            },
+            {
+              "label": "Agua",
+              "detail": "Traiga una botella sellada de 20 oz o una botella de plástico vacía y rellénela temprano y con frecuencia."
+            },
+            {
+              "label": "Festival de cerveza",
+              "detail": "El GoldenSky Beer Festival es para mayores de 21 años con entrada independiente y se requiere una identificación con fotografía válida."
+            },
+            {
+              "label": "Taquillas",
+              "detail": "Alquile un casillero de 8 por 12 por 18 pulgadas en el área GA o VIP para guardar capas y compras."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Normas y qué llevar a Golden Sky Festival",
+          "description": "Revise el control de bolsos, los artículos prohibidos, las reglas de las pulseras, los límites de reingreso, el soporte de accesibilidad y una práctica lista de verificación de empaque para ambos días del festival.",
+          "href": "/guide/golden-sky-festival-rules",
+          "displayType": "lista de tarjetas",
+          "highlights": [
+            {
+              "label": "Bolsas",
+              "detail": "Lleve un bolso transparente o un bolso de mano pequeño dentro del límite de tamaño publicado; Los bolsos grandes están restringidos."
+            },
+            {
+              "label": "Prohibido",
+              "detail": "Deje vidrio, alcohol del exterior, drones, palos para selfies, hieleras y armas en casa."
+            },
+            {
+              "label": "Reentrada",
+              "detail": "Los pases estándar no pueden salir ni volver a entrar; Los paquetes de camping, SVIP y hotel tienen excepciones."
+            },
+            {
+              "label": "Acceso",
+              "detail": "ADA la visualización, los animales de servicio, los suministros médicos y las necesidades dietéticas se gestionan mediante acuerdos previos."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Guía para principiantes de Golden Sky Festival",
+          "description": "Siga una secuencia de principiante para elegir pases, reservar viajes, empacar según el clima, navegar por el lugar y elaborar un plan realista de dos días.",
+          "href": "/guide/golden-sky-festival-information",
+          "displayType": "paso a paso",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Consíguelo del 9 al 10 de octubre de 2027 y elige un pase de dos días o de un solo día antes de que los precios suban."
+            },
+            {
+              "label": "2",
+              "detail": "Reserve un hotel o Cal Expo camping reembolsable y reserve pases de estacionamiento o transporte con anticipación."
+            },
+            {
+              "label": "3",
+              "detail": "Empaque zapatos usados, protección solar, una capa ligera de noche, identificación y un cargador portátil."
+            },
+            {
+              "label": "4",
+              "detail": "Llegue cerca de la apertura de la puerta, pase el control de seguridad y camine por el sitio antes del primer set de visita obligada."
+            },
+            {
+              "label": "5",
+              "detail": "Elija dos o tres presentadores por día y deje espacio para la comida, la sombra y los cambios de escenario."
+            },
+            {
+              "label": "6",
+              "detail": "Haga una captura de pantalla del horario y establezca un punto de encuentro físico antes de que el servicio celular se ralentice."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes sobre Golden Sky Festival",
+      "description": "Respuestas a las preguntas más habituales sobre el fin de semana del Golden Sky Festival en Sacramento.",
+      "items": [
+        {
+          "question": "¿Qué es Golden Sky Festival?",
+          "answer": "Golden Sky Festival es un festival de música country al aire libre de dos días de duración en Discovery Park en Sacramento, California. La edición de 2027 se realizará del 9 al 10 de octubre y presenta actos country, Americana, raíces y crossover en múltiples escenarios."
+        },
+        {
+          "question": "¿Cuándo es Golden Sky Festival 2027?",
+          "answer": "Golden Sky Festival 2027 se llevará a cabo el sábado 9 y domingo 10 de octubre de 2027."
+        },
+        {
+          "question": "¿Dónde se celebra Golden Sky Festival?",
+          "answer": "Golden Sky Festival se lleva a cabo en Discovery Park en Sacramento, California, donde el American River se encuentra con el Sacramento River. El sitio tiene entradas norte y sur en Garden Highway y Jibboom Street."
+        },
+        {
+          "question": "¿Qué incluyen las entradas Golden Sky Festival?",
+          "answer": "Los pases Golden Sky Festival proporcionan entrada al festival y llegan como RFID pulseras. Las opciones de paquetes de un día, dos días, VIP y de hotel se venden por separado de los pases para acampar y estacionar."
+        },
+        {
+          "question": "¿Puedo salir y volver a ingresar a Golden Sky Festival?",
+          "answer": "Los pases estándar Golden Sky Festival no permiten el reingreso. Los pases para acampar, los pases Country Club SVIP y los paquetes de entrada + hotel reservados a través de Jampack incluyen el reingreso durante el horario del evento."
+        },
+        {
+          "question": "¿Qué puedo traer a Golden Sky Festival?",
+          "answer": "Traiga una bolsa transparente o un bolso de mano pequeño, una botella de agua sellada de 20 oz o una botella de plástico vacía, loción protector solar, una manta y una capa ligera. Están prohibidos el vidrio, el alcohol del exterior, las hieleras, los drones, los palos para selfies y las bolsas grandes."
+        },
+        {
+          "question": "¿Dónde puedo quedarme cerca de Golden Sky Festival?",
+          "answer": "Golden Sky Festival está disponible para acampar en Cal Expo con sitios para automóviles y tiendas de campaña o vehículos recreativos. Downtown, Midtown, Old Sacramento y Natomas ofrecen opciones de hoteles a poca distancia en automóvil o en viaje compartido de Discovery Park."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Planifica tu fin de semana en GoldenSky 2027",
+      "description": "Usa nuestra guía independiente para comparar pases, organizar tu agenda diaria y aprovechar al máximo dos días en Discovery Park, Sacramento.",
+      "primary": "Explorar guías del festival",
+      "secondary": "Comprar pases del festival"
+    }
+  },
+  "lineup": {
+    "overviewTitle": "Cartel y guía de artistas de Golden Sky Festival",
+    "overviewDescription": "Consulta el cartel confirmado del Golden Sky Festival 2027, los artistas por día, las ediciones anteriores y las novedades de los anuncios para el fin de semana del 9 al 10 de octubre en Discovery Park."
+  },
+  "tickets": {
+    "overviewTitle": "Entradas y pases de Golden Sky Festival",
+    "overviewDescription": "Compara las opciones de entradas del Golden Sky Festival 2027, las normas de recogida en taquilla, los detalles de Front Gate Tickets, las comprobaciones de reventa y los consejos de presupuesto antes de que salgan los pases."
+  },
+  "guide": {
+    "overviewTitle": "Guía y horarios del Golden Sky Festival",
+    "overviewDescription": "Planifica el fin de semana del Golden Sky Festival con las fechas de 2027, horarios diarios, horas de actuación, normas, opciones de comida, aforo y consejos para quienes asisten por primera vez."
+  },
+  "location": {
+    "overviewTitle": "Ubicación y viaje al Golden Sky Festival",
+    "overviewDescription": "Encuentra Discovery Park en Sacramento, compara opciones de aparcamiento y transporte, consulta el plano del festival y planifica una llegada sencilla al Golden Sky Festival."
+  },
+  "reviews": {
+    "overviewTitle": "Reseñas y resúmenes de Golden Sky Festival",
+    "overviewDescription": "Lee reseñas del Golden Sky Festival, opiniones de fans, fotos y resúmenes del debut de 2022 y del anuncio del cartel de 2023."
+  },
+  "updates": {
+    "overviewTitle": "Noticias y novedades del Golden Sky Festival",
+    "overviewDescription": "Sigue las fechas confirmadas del Golden Sky Festival 2027, los anuncios de regreso, el contexto de la cancelación anterior y las novedades del cartel mientras el festival de Sacramento se prepara para Discovery Park."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "festivalUpdates": "Novedades del festival",
+    "festivalUpdateText": "Golden Sky Festival regresa a Discovery Park los días 9 y 10 de octubre de 2027.",
+    "updated": "Actualizado",
+    "viewAllUpdates": "Ver todas las novedades",
+    "playOnRoblox": "Jugar en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Todavía no hay guías disponibles. Vuelve pronto.",
+    "pageNotFound": "No se encontró la página",
+    "pageNotFoundText": "Es posible que la guía que buscas se haya movido o todavía no esté disponible.",
+    "browseGuides": "Explorar guías del festival"
+  },
+  "footer": {
+    "aboutTitle": "Golden Sky Festival Wiki",
+    "about": "Golden Sky Festival Wiki es un centro de guías independiente creado por fans que cubre fechas, cartel, entradas, horarios, información del recinto y consejos prácticos para visitantes.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Aviso legal",
+    "copyright": "2026 Golden Sky Festival Wiki. Sin afiliación con GoldenSky Festival ni con sus organizadores.",
+    "description": "Guía independiente del GoldenSky Festival 2027 en Sacramento: cartel, pases, horarios y planificación para visitantes.",
+    "playGame": "Sitio oficial del festival",
+    "officialFacebook": "Facebook oficial",
+    "officialDiscord": "Facebook oficial",
+    "officialInstagram": "Instagram oficial",
+    "officialYoutube": "YouTube oficial",
+    "officialApp": "App oficial del festival",
+    "vvBuilder": "App oficial del festival",
+    "beginnerGuide": "Guía del festival",
+    "raceGuides": "Cartel 2027",
+    "bossGuides": "Entradas y pases",
+    "buildGuide": "Lugar y viaje",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos del servicio"
+  }
+}

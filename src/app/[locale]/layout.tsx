@@ -9,6 +9,9 @@ import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
 import { JsonLd, SiteFooter, SiteHeader } from "@/components/site";
 import { routing } from "@/i18n/routing";
+import en from "@/locales/en.json";
+
+type Messages = typeof en;
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
@@ -20,12 +23,14 @@ export function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
+  const messages = (await getMessages({ locale })) as Messages;
+  const meta = messages.home.meta;
   const image = `${siteUrl}/images/hero.webp`;
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
   return {
     metadataBase: new URL(siteUrl),
-    title: { default: "Golden Sky Festival Wiki", template: "%s" },
-    description: "Find GoldenSky Festival 2027 dates, country music lineup, tickets, daily schedules, venue maps, travel tips, and official event updates for Sacramento.",
+    title: { default: meta.title, template: "%s" },
+    description: meta.description,
     keywords: ["Golden Sky Festival", "GoldenSky 2027", "country music festival", "lineup", "tickets", "schedule", "Sacramento"],
     manifest: "/manifest.json",
     icons: {
@@ -38,16 +43,16 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     openGraph: {
       type: "website",
       locale,
-      url: siteUrl,
+      url: `${siteUrl}/${locale}`,
       siteName: siteConfig.name,
-      title: "Golden Sky Festival Wiki",
-      description: "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, schedules, venue maps, and visitor planning for Sacramento.",
+      title: meta.title,
+      description: meta.description,
       images: [{ url: image, width: 1200, height: 628, alt: "Golden Sky Festival 2027" }],
     },
     twitter: {
       card: "summary_large_image",
-      title: "Golden Sky Festival Wiki",
-      description: "Independent GoldenSky Festival 2027 guide covering dates, lineup, passes, schedules, venue maps, and visitor planning for Sacramento.",
+      title: meta.title,
+      description: meta.description,
       images: [image],
     },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),

@@ -42,6 +42,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@DannyWimmerPresents",
     twitter: "https://x.com/goldenSkyfest",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "fr", "de"],
   defaultLocale: "en",
 };
